@@ -14,4 +14,18 @@ VERSION	| DATE	       | REVISION AUTHORS	| SUMMARY OF CHANGES
 0.3			|              |                   
 0.5		   
 
+### APPROVAL
+NAME	| TITLE	| STATUS
+|-----|--------|------|
+      |        |
+1.	Introduction
+
+The purpose of this document is to describe the methodology and processes for conducting a risk assessment and determining risk treatment options for Acme Financial institution. This document aligns with the requirements of ISO/IEC 27001:2022 to ensure confidentiality, integrity, and availability of information assets.
+
+2.	Scope
+
+This risk assessment and risk treatment process applies to all aspects of Acme’s mobile banking application upgrade. It includes the identification, analysis, evaluation, and mitigation of risks associated with the upgrade, ensuring alignment with the organization’s regulatory, security, and operational requirements. The scope includes:
+•	Application Components: The upgraded mobile banking application, including its codebase, algorithms, authentication mechanisms, and user interfaces.
+•	Infrastructure: The third-party cloud environment hosting the application, including its configurations, security controls, and integrations with Acme’s internal systems.
+•	Data: Customer data, financial transactions, and other sensitive information processed, stored, and transmitted by the application.
 
