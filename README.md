@@ -49,7 +49,51 @@ Medium    	    |Sustainable   |Moderate   |Moderate|Severe   |Critical
 Low	            |Sustainable   |Sustainable|Moderate|Severe	  |Critical
 Very Low	    |Sustainable   |Sustainable|Sustainable|Moderate|Severe
 
-						
+### 4.	Risk Management Policy
+
+Acme is committed to maintaining an effective Information Security Risk Management System in line with ISO 27001:2022. The policy ensures a systematic and structured approach to risk management, including identification, analysis, evaluation, and treatment of risks.
+
+
+#### 4.1	Policy Objectives
+- To protect the confidential, integrity, and availability of information.
+- To minimize risks to an acceptable level and ensure business continuity.
+- To comply with legal, regulatory, and contractual requirements.
+
+#### 4.2	Risk Management Principles
+Risk-Based Approach: Risks will be identified, assessed, and managed in a consistent manner, focusing on reducing risks that may affect business operations.
+
+Continual Improvement: The risk management process will be continuously reviewed and improved based on changes in the threat landscape, business processes, and external requirements.
+
+Ownership and Accountability: All risks will be assigned owners who are responsible for managing, and monitoring risk.
+
+#### 4.3	Risk Appetite
+
+Acme acknowledges that certain risks are inherent in its business activities and aims to mitigate the risks that pose a significant threat to its critical information and operations. Risk ratings from severe to critical will require immediate attention and mitigation.
+
+#### 4.4	Risk Reporting and Escalation
+
+Significant risks will be reported to top management and escalated if necessary. Regular risk reports will be provided to the Information Security Officer and senior leadership.
+
+#### 4.5	Risk Monitoring and Review
+
+Risks are to be continuously monitored and reviewed to ensure that mitigation measures are effective and aligned with organizational goals.
+
+### 5. Risk Assessment Methodology
+- Identify Assets: Catalog critical assets such as servers, applications and personnel.
+- Identify Threats and Vulnerabilities: Analyse potential threats (e.g. weak access control, lack of encryption).
+- Risk Analysis: Calculate the Risk Score by assessing the likelihood and impact of each threat exploiting a vulnerably.
+- Risk Evaluation: Prioritize risks based on the calculated the Risk Score.
+- Risk Treatment Process
+
+### 6. Risk Treatment Options:
+    Mitigate: Reduce risk through additional controls.
+    Transfer: Shift risk through contracts or insurance.
+    Avoidance: Eliminate activities causing the risk.
+    Acceptance: Accept low or manageable risks.
+
+Risk Treatment Plan:
+     Document the selected risk treatment and assess the Residual Risk after controls have been applied.
+
 
 
 
