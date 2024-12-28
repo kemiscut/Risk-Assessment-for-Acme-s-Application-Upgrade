@@ -41,13 +41,13 @@ Likelihood: Measures the probability of risk occurring.
 Impact: Measures the consequences if the risk occurs. 
 Both likelihood and impact range from very low, low, medium, high to very high on a 5-point scale (1 being low, 5 being high).
 
-Probability/Impact |	Very Low	 | Low	| Medium	| High	  | Very High
-|-------------------|------------|------|------|---------|----------|
-Very High           |	Moderate   |Severe|Severe	Critical	Critical
-High	Sustainable	Moderate	Severe	Critical	Critical
-Medium	Sustainable	Moderate	Moderate	Severe	Critical
-Low	Sustainable	Sustainable	Moderate	Severe	Critical
-Very Low	Sustainable	Sustainable	Sustainable	Moderate	Severe
+Probability/Impact |	Very Low   | Low       | Medium| High     | Very High
+|-------------------|--------------|--------   |------ |--------- |----------|
+Very High           |	Moderate   |Severe     |Severe | Critical |Critical
+High	            |Sustainable   |Moderate   |Severe |Critical  |Critical
+Medium    	    |Sustainable   |Moderate   |Moderate|Severe   |Critical
+Low	            |Sustainable   |Sustainable|Moderate|Severe	  |Critical
+Very Low	    |Sustainable   |Sustainable|Sustainable|Moderate|Severe
 
 						
 
