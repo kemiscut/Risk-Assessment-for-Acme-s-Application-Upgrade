@@ -6,3 +6,12 @@ CLASSIFICATION |	REF	                  | VERSION	| DATE	       | OWNER	         
 |---------------|-----------------------|----------|-------------|----------------------------|--------|
 INTERNAL	      |ACME-ISMS-DOC-OO1-RISK |	0.1	    | 18 DEC. 2024 |Acme Financial Institution	|Aishat Alli
 
+### CONTROL OF DOCUMENT
+### REVISION HISTORY
+VERSION	| DATE	       | REVISION AUTHORS	| SUMMARY OF CHANGES
+|-------|------------- |-------------------|-------------------|
+0.1     |18 DEC. 2024  |	AISHAT ALLI	    |First draft of the Risk assessment and Risk treatment documentation based on ISO 27001, NIST 800-171, PCI DSS and GDPR
+0.3			|              |                   
+0.5		   
+
+
