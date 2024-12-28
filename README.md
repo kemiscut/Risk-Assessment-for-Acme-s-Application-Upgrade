@@ -29,3 +29,27 @@ This risk assessment and risk treatment process applies to all aspects of Acmeâ€
 -  Infrastructure: The third-party cloud environment hosting the application, including its configurations, security controls, and integrations with Acmeâ€™s internal systems.
 -  Data: Customer data, financial transactions, and other sensitive information processed, stored, and transmitted by the application.
 
+3.	Criteria for Performing Information Security Risk Assessment
+
+3.1	Asset Valuation Criteria
+
+Assets are evaluated based on confidentiality, Integrity, and availability.
+
+3.2	Risk Likelihood and Impact Criteria
+
+Likelihood: Measures the probability of risk occurring.
+Impact: Measures the consequences if the risk occurs. 
+Both likelihood and impact range from very low, low, medium, high to very high on a 5-point scale (1 being low, 5 being high).
+
+Probability/Impact |	Very Low	 | Low	| Medium	| High	  | Very High
+|-------------------|------------|------|------|---------|----------|
+Very High           |	Moderate   |Severe|Severe	Critical	Critical
+High	Sustainable	Moderate	Severe	Critical	Critical
+Medium	Sustainable	Moderate	Moderate	Severe	Critical
+Low	Sustainable	Sustainable	Moderate	Severe	Critical
+Very Low	Sustainable	Sustainable	Sustainable	Moderate	Severe
+
+						
+
+
+
